@@ -186,22 +186,7 @@ UR5机器人的开源OpenRAVE控制器，与ROS集成。
 * [Linorobot](https://linorobot.org/) 一套DIY的ROS兼容机器人
 * [六足机器人模拟器](https://github.com/mithi/hexapod) - 在网络上解决和可视化六足机器人逆运动学和步态
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - 一个用于学习机器人算法的Python代码库
-* [机器人学在线课程](https://www.robotacademy.net.au/) - 由昆士兰科技大学提供的免费在线课程
-* [机器人学社区](https://www.robotics.org/) - 一个提供行业新闻、资源和活动的机器人学社区网站
-* [机器人学论坛](https://www.robot-forum.com/) - 一个活跃的机器人学爱好者和专业人士的讨论平台
-* [机器人学博客](https://www.roboticsblog.org/) - 一个分享机器人学最新进展和见解的博客
-* [机器人学新闻](https://www.robots.ox.ac.uk/~mobile/roboticsnews/) - 牛津大学移动机器人组的机器人学新闻网站
-* [机器人学播客](https://www.robotspodcast.com/) - 一个关于机器人学的播客，涵盖行业动态、研究进展和技术趋势
-* [机器人学YouTube频道](https://www.youtube.com/user/IEEEspectrum) - IEEE Spectrum的机器人学相关视频频道
-* [机器人学维基](http://wiki.ros.org/) - ROS社区的维基，包含大量机器人学相关资源和文档
-* [机器人学开源项目](https://github.com/topics/robotics) - GitHub上的机器人学开源项目集合
-* [机器人学研究实验室](https://www.ri.cmu.edu/) - 卡内基梅隆大学的机器人学研究所
-* [机器人学研究机构](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Training-Programs/Robotics-Research-Labs/content_id/4857) - 一个列出全球主要机器人学研究机构的网站
-* [机器人学标准](https://www.iso.org/committee/62262.html) - 国际标准化组织（ISO）的机器人学标准委员会
-* [机器人学安全](https://www.osha.gov/SLTC/robotics/) - 美国职业安全与健康管理局（OSHA）关于机器人安全的指南和资源
-* [机器人学职业](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Training-Programs/Robotics-Careers/content_id/4858) - 一个提供机器人学职业信息和资源的网站
-* [机器人学教育](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Training-Programs/Robotics-Education/content_id/4859) - 一个提供机器人学教育信息和资源的网站
-* [机器人学职业发展](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Training-Programs/Professional-Development/content_id/4860) - 一个提供机器人学职业发展机会和资源的网站
+
 
 ### 附注 ###
 - :dollar: 表示该资源需要付费
